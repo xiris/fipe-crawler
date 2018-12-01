@@ -208,7 +208,7 @@ class Crawler
      * @param integer $marcaId     Marca Id
      * @param integer $modeloId    Modelo Id
      * @param string  $combustivel Código combustível
-     * @param intege  $ano         Ano Modelo
+     * @param integer  $ano         Ano Modelo
      *
      * @return array
      */
